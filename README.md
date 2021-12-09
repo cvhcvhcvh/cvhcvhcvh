@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cvhcvhcvh
+- 👋 Hi, I’m Chase!
 - 👀 I’m interested in coding :)
 - 🌱 I’m currently learning GraphQL
 - 💞️ I’m looking to collaborate on new projects.
