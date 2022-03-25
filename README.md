@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Chase!
 - 👀 I’m interested in coding :)
-- 🌱 I’m currently learning GraphQL
-- 💞️ I’m looking to collaborate on new projects.
-- 📫 How to reach me heychase@chasevanhaselen.com
+- 🌱 I’m currently working through the React courses on Frontend Masters.
+- 💞️ I’m looking to get a job.
+- 📫 How to reach me chasevanhaselen@gmail.com
 
 <!---
 cvhcvhcvh/cvhcvhcvh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
