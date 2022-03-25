@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chase!
 - 👀 I’m interested in coding :)
 - 🌱 I’m currently working through the React courses on Frontend Masters.
-- 💞️ I’m looking to get a job.
 - 📫 How to reach me chasevanhaselen@gmail.com
 
 <!---
